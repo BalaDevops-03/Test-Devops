@@ -1,0 +1,10 @@
+class devops1
+{
+	public static void main ()
+<<<<<<< HEAD
+	{System.out.println("by Dev2")
+=======
+	{System.out.println()
+>>>>>>> 8e5f429acfe3cf9a080644a0d0e6e75888d91ce1
+	}
+}
