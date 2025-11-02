@@ -1,7 +1,7 @@
 class devops1
 {
-	public static void main (arg char)
+	public static void main ()
 
-	{System.out.println("changes by Dev2")
+	{System.out.println("by Dev2")
 	}
 }
